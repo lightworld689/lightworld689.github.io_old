@@ -3,8 +3,7 @@ layout: default
 title: DLMSS生存服务器官网
 description: 再见了，DLMSS生存服务器。
 ---
-<details><summary>我们很抱歉，因为服务器成本过高，DLMSS已经关停。您可以选择打开这个折叠，来查看已经过时的内容备份。</summary>
-<p>
+<details><summary>我们很抱歉，因为服务器成本过高，DLMSS已经关停。您可以选择点击这里来查看已经过时的内容备份。</summary>
 
 ### [评论](https://github.com/lightworld689/lightworld689.github.io/discussions/categories/dlmss%E7%94%9F%E5%AD%98%E6%9C%8D%E5%8A%A1%E5%99%A8)
 
@@ -32,7 +31,6 @@ description: 再见了，DLMSS生存服务器。
 
 我们的官方QQ群：264190806
 
-</p>
 </details>
 
 ***

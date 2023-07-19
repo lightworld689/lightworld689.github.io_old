@@ -8,7 +8,7 @@ description: 欢迎！！！
 欢迎！  
 请选择操作：  
 访问日志(1)  
-讨论！(2)  
+[讨论](https://github.com/lightworld689/lightworld689.github.io/discussions)(2)  
 \> 1  
 请选择要访问的文件：  
 dlssh_latest.log(1)  

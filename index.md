@@ -3,6 +3,20 @@ layout: default
 title: DQJL的博客
 description: 欢迎！！！
 ---
+用户名：TuHengYu  
+密码：  
+欢迎！  
+请选择操作：  
+访问日志(1)  
+运行程序(2)  
+讨论！(3)  
+\> 1  
+请选择要访问的文件：  
+dlssh_latest.log(1)  
+digital_life_latest.log(2)  
+\> 1  
+加载中……  
+***  
 \[DLSSH\]\* 连接成功  
 Welcome to DengquejiL Super Quantum Computer\(DLSQC\)!
 
@@ -31,4 +45,4 @@ Root密码：
 \[DLSSH\]\* 连接已断开。第 5/5 次重连……  
 \[DLSSH\]\* 连接已断开。  
   
-\[dqjl@ubuntu-VM\:\~\] \$
+\[dqjl@ubuntu-VM\:\~\] \$  

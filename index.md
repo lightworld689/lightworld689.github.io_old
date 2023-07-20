@@ -4,7 +4,7 @@ title: DQJL的博客
 description: Hello, worDL
 ---
 \[THY@550W\:\~\] \$ su  
-密码：********  
+密码：\*\*\*\*\*\*\*\*  
 \[THY@550W\:\~\] \# cd /home/dlssh/log/  
 \[THY@550W\:log\] \# dlssh readlog latest  
 

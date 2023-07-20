@@ -3,19 +3,13 @@ layout: default
 title: DQJL的博客
 description: Hello, worDL
 ---
-用户名：THY  
-密码：\*\*\*\*
-欢迎！  
-请选择操作：  
-访问日志(1)  
-[讨论](https://github.com/lightworld689/lightworld689.github.io/discussions)(2)  
-\> 1  
-请选择要访问的文件：  
-dlssh_latest.log(1)  
-digital_life_latest.log(2)  
-\> 1  
-加载中……  
+\[THY@550W\:\~\] \$ su  
+密码：********  
+\[THY@550W\:\~\] \# cd /home/dlssh/log/  
+\[THY@550W\:log\] \# dlssh readlog latest  
+
 \-\-\-\-\-  
+
 \[DLSSH\]\* 连接成功  
 Welcome to DengquejiL Super Quantum Computer\(DLSQC\)!  
 
@@ -46,5 +40,5 @@ su: 鉴权失败
 \[DLSSH\]\* 连接已断开。第 4/5 次重连……  
 \[DLSSH\]\* 连接已断开。第 5/5 次重连……  
 \[DLSSH\]\* 连接已断开。  
-  
-\[dqjl@ubuntu-VM\:\~\] \$
+
+\-\-\-\-\-  

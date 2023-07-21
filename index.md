@@ -1,5 +1,5 @@
 \[THY@550W\:\~\] \$ su  
-密码：\*\*\*\*\*\*\*\*  
+密码: \*\*\*\*\*\*\*\*  
 \[THY@550W\:\~\] \# cd /home/dlssh/log/  
 \[THY@550W\:log\] \# dlssh readlog latest  
 
@@ -23,10 +23,10 @@ https://lightworld689.github.io
 \[dqjl@DLSQC\:\~\] \$ dlsqcsystem shutdown --now  
 dlsqcsystem: 权限不够  
 \[dqjl@DLSQC\:\~\] \$ su  
-密码：\*\*\*\*  
+密码: \*\*\*\*  
 su: 鉴权失败  
 \[dqjl@DLSQC\:\~\] \$ su  
-密码：\*\*\*\*\*\*  
+密码: \*\*\*\*\*\*  
 \[dqjl@DLSQC\:\~\] \# dlsqcsystem shutdown --now  
   
 \[DLSSH\]\* 连接已断开。第 1/5 次重连……  

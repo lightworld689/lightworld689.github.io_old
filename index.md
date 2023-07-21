@@ -1,18 +1,13 @@
----
-layout: default
-title: DQJL的博客
-description: Hello, worDL
----
-<kbd>\[THY@550W\:\~\] \$ su  
+\[THY@550W\:\~\] \$ su  
 密码：\*\*\*\*\*\*\*\*  
 \[THY@550W\:\~\] \# cd /home/dlssh/log/  
 \[THY@550W\:log\] \# dlssh readlog latest  
-<br>
+
 \-\-\-\-\-  
-<br>
+
 \[DLSSH\]\* 连接成功  
 Welcome to DengquejiL Super Quantum Computer\(DLSQC\)!  
-<br>
+
 \[dqjl@DLSQC\:\~\] \$ dqjl whoami  
 你好！我是DengQueJiL！你也可以叫我DQJL！  
 \[dqjl@DLSQC\:\~\] \$ dqjl mycontact  
@@ -33,13 +28,12 @@ su: 鉴权失败
 \[dqjl@DLSQC\:\~\] \$ su  
 密码：\*\*\*\*\*\*  
 \[dqjl@DLSQC\:\~\] \# dlsqcsystem shutdown --now  
-<br>
+  
 \[DLSSH\]\* 连接已断开。第 1/5 次重连……  
 \[DLSSH\]\* 连接已断开。第 2/5 次重连……  
 \[DLSSH\]\* 连接已断开。第 3/5 次重连……  
 \[DLSSH\]\* 连接已断开。第 4/5 次重连……  
 \[DLSSH\]\* 连接已断开。第 5/5 次重连……  
 \[DLSSH\]\* 连接已断开。  
-<br>
+
 \-\-\-\-\-  
-</kbd>

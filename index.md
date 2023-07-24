@@ -1,13 +1,23 @@
+Last login: Mon Jul 24 12:19:02 2023 from 127.0.0.1  
+没有人的文明，毫无意义。
 \[THY@550W\:\~\] \$ su  
 密码: \*\*\*\*\*\*\*\*  
 \[THY@550W\:\~\] \# cd /home/dlssh/log/  
 \[THY@550W\:log\] \# dlssh readlog latest  
 
-\-\-\-\-\-  
-
 \[DLSSH\]\* 连接成功  
-Welcome to DengquejiL Super Quantum Computer\(DLSQC\)!  
+\-----
 
+Welcome to DengquejiL Super Quantum Computer\(DLSQC\)! 
+```
+######  #        #####   #####   #####  
+ #     # #       #     # #     # #     # 
+ #     # #       #       #     # #       
+ #     # #        #####  #     # #       
+ #     # #             # #   # # #       
+ #     # #       #     # #    #  #     # 
+ ######  #######  #####   #### #  #####
+```
 \[dqjl@DLSQC\:\~\] \$ dqjl whoami  
 你好！我是DengQueJiL！你也可以叫我DQJL！  
 \[dqjl@DLSQC\:\~\] \$ dqjl mycontact  

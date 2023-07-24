@@ -8,7 +8,9 @@ Last login: Mon Jul 24 12:19:02 2023 from 127.0.0.1
 \[DLSSH\]\* 连接成功  
 \-----
 
-Welcome to DengquejiL Super Quantum Computer\(DLSQC\)! 
+Welcome to DengquejiL Super Quantum Computer\(DLSQC\)!  
+<!-- 想不到吧，DLSQC是真的存在的(doge) -->  
+<!-- https://smms.app/image/Bjm79bJGSTCDMEN -->  
 ```
 ######  #        #####   #####   #####  
  #     # #       #     # #     # #     # 

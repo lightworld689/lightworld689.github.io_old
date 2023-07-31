@@ -1,9 +1,9 @@
 Last login: Mon Jul 24 12:19:02 2023 from 127.0.0.1   
 没有人的文明，毫无意义。  
-\[THY@550W\:\~\] \$ su  
+\[DQJL@550W\:\~\] \$ su  
 密码: \*\*\*\*\*\*\*\*  
-\[THY@550W\:\~\] \# cd /home/dlssh/log/  
-\[THY@550W\:log\] \# dlssh readlog latest  
+\[DQJL@550W\:\~\] \# cd /home/dlssh/log/  
+\[DQJL@550W\:log\] \# dlssh connect --last  
 
 \-----  
 \[DLSSH\]\* 连接成功

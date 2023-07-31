@@ -5,7 +5,7 @@ Last login: Mon Jul 24 12:19:02 2023 from 127.0.0.1
 \[THY@550W\:\~\] \# cd /home/dlssh/log/  
 \[THY@550W\:log\] \# dlssh readlog latest  
 
-\-----
+\-----  
 \[DLSSH\]\* 连接成功
 
 Welcome to DengquejiL Super Quantum Computer\(DLSQC\)!  

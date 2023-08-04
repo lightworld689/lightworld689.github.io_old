@@ -1,9 +1,10 @@
-Last login: Mon Jul 24 12:19:02 2023 from 127.0.0.1   
 没有人的文明，毫无意义。  
 \[DQJL@550W\:\~\] \$ su  
 密码: \*\*\*\*\*\*\*\*  
 \[DQJL@550W\:\~\] \# cd /home/dlssh/log/  
-\[DQJL@550W\:log\] \# dlssh connect --last  
+\[DQJL@550W\:\~\] \# ls  
+[初始连接.dslog](https://lightworld689.github.io)  DLSQC突破沙盒叛变.dslog  
+\[DQJL@550W\:log\] \# dlssh seelog 初始连接.dslog  
 
 \-----  
 \[DLSSH\]\* 连接成功
@@ -12,7 +13,7 @@ Welcome to DengquejiL Super Quantum Computer\(DLSQC\)!
 <!-- 想不到吧，DLSQC是真的存在的(doge) -->  
 <!-- https://smms.app/image/Bjm79bJGSTCDMEN -->  
 ```
-######  #        #####   #####   #####  
+ #####   #        #####   #####   #####  
  #     # #       #     # #     # #     # 
  #     # #       #       #     # #       
  #     # #        #####  #     # #       

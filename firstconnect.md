@@ -26,6 +26,7 @@ Welcome to DengquejiL Super Quantum Computer\(DLSQC\)!
 我的QQ：1303518709
 我的微信：lightrightworldlr  
 我的github：lightworld689  
+我的Bilbili：https://space.bilibili.com/547970284  
 \[dqjl@DLSQC\:\~\] \$ dqjl code  
 我经常使用python进行编程，并且我正在学习CPP！  
 \[dqjl@DLSQC\:\~\] \$ dqjl iamdoing  

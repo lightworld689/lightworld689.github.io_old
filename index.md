@@ -1,3 +1,4 @@
-# DLSQC日志 目录
-[初次连接](https://lightworld689.github.io/firstconnect)  
-[突破沙盒并叛变](https://lightworld689.github.io/sandbox)  
+# 欢迎来到灯确吉L的博客
+##链接
+
+[架空：DLSQC初次连接](https://lightworld689.github.io/firstconnect)  

@@ -15,6 +15,7 @@ description: Welcome！
 [对讲机](https://github.com/lightworld689/lightworld689.github.io/discussions)  
 ### 友情链接  
 [纸片君ee的博客](http://paperee.guru)
+[MrZhang365的博客](https://blog.mrzhang365.cf)
 
 ## 联系方式  
 QQ：1303518709  

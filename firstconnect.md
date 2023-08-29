@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 初始连接 日志
-description: 未经授权禁止访问
+description: hihihi
 ---
 
 ## 您正在访问：初始连接 日志  

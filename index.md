@@ -13,7 +13,7 @@ description: Welcome！
 ## 链接
 ### 自己的链接
 [对讲机](https://github.com/lightworld689/lightworld689.github.io/discussions)  
-### 灯罩上面还有点东西……（友情链接）  
+### 神秘的树洞（友情链接）  
 [纸片君ee的博客](http://paperee.guru)
 [MrZhang365的博客](https://blog.mrzhang365.cf)
 

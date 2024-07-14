@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>音乐播放器</title>
+    <style>
+        #lyrics {
+            height: 300px;
+            overflow-y: scroll;
+        }
+        .current-line {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <audio id="audio" controls>
+        <source src="https://wop-sandbox.wikidot.com/local--files/sandbox:dqjl/Shattered%20Dreams.mp3" type="audio/mpeg">
+        您的浏览器不支持 audio 元素。
+    </audio>
+    <div id="lyrics"></div>
+
+    <script>
+        const lyricsData = [
+            {time: 0, text: "这是第一行歌词"},
+            {time: 5, text: "这是第二行歌词"},
+            {time: 10, text: "这是第三行歌词"},
+        ];
+
+        const audio = document.getElementById('audio');
+        const lyricsContainer = document.getElementById('lyrics');
+
+        // 显示歌词
+        lyricsData.forEach(line => {
+            const p = document.createElement('p');
+            p.textContent = line.text;
+            lyricsContainer.appendChild(p);
+        });
+
+        // 滚动歌词
+        audio.addEventListener('timeupdate', () => {
+            const currentTime = audio.currentTime;
+            const currentLine = lyricsData.find((line, index) => 
+                currentTime >= line.time && 
+                (index === lyricsData.length - 1 || currentTime < lyricsData[index + 1].time)
+            );
+
+            if (currentLine) {
+                const lines = lyricsContainer.getElementsByTagName('p');
+                Array.from(lines).forEach((line, index) => {
+                    if (index === lyricsData.indexOf(currentLine)) {
+                        line.classList.add('current-line');
+                        line.scrollIntoView({behavior: 'smooth', block: 'center'});
+                    } else {
+                        line.classList.remove('current-line');
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+</html>

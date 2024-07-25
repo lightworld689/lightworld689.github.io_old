@@ -7,6 +7,8 @@ description: Welcome！
 
 ## 文章  
 
+[通过 Cloudflare Worker 免费发送电子邮件](https://dqjl.eu.org/worker_email)
+
 [架空：DLSQC初次连接](https://dqjl.eu.org/firstconnect)  
 
 ## 链接

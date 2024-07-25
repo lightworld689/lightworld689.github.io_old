@@ -3,11 +3,6 @@ layout: default
 title: DQJL的博客
 description: Welcome！
 ---
-
-###施工中
-
-预计 7/27 完工
-
 # 欢迎来到灯确吉L的博客  
 
 ## 文章  
